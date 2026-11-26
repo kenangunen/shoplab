@@ -1,0 +1,17 @@
+# Derleme çıktısı
+target/
+
+# IDE ayarları (kişisel, repoya girmez)
+.idea/
+*.iml
+.vscode/
+
+# İşletim sistemi
+.DS_Store
+
+# Yerel ortam ve gizli bilgiler
+.env
+*.local.yml
+
+# Loglar
+*.log
